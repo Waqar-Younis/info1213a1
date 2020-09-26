@@ -1,0 +1,55 @@
+img {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+ table, tbody {
+ 	border-spacing: 10px;
+ 	border: 1px  solid black;
+ 	
+ }
+ .one {
+ 	
+ 	
+ 	
+}
+ 
+ .two {
+ 	
+ 	font-size: 19px;
+ 	margin-right: 1100px;
+
+ }
+ .three {
+ 	 
+ 	margin-left: 200px;
+
+ 	margin-bottom: 500px;
+ 	position: absolute;
+ 	font-size: 19px;
+}
+.body {
+	background-color: #ecf4f3;
+	background-image: url(rainbow.webp);
+	background-size: cover;
+	
+	border-style: solid;
+	padding: 10px;
+	 
+	 height: 100%	}
+
+.four {
+	margin-right: 1000px;
+
+}
+
+.five {
+	margin-right: 1000px;
+}
+.para {
+	margin-bottom: 100px;
+	margin-left: 300px;
+	font-size: 20px;
+	border-style: double;
+}
+  

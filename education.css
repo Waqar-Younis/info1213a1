@@ -1,0 +1,24 @@
+ /* this is the css code for Education page. */
+h1 + table {
+ 	font-size: 19px;
+ 	font-family: sans-serif;
+ 	padding: 10px;
+ 	border-style: double;
+  }
+  #website{
+  	margin-left: 400px;
+  	color: #033344;
+  }
+ table, thead{
+ 	color: #5dbcd2;
+
+ }
+ table tbody {
+ 	color: grey;
+ }
+ body {
+ 	background-image: url(rainbow.webp);
+ 	background-size: cover;
+ }
+
+
